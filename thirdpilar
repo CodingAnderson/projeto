@@ -6,7 +6,7 @@ Let's make a game!
 	version:1
 
 Settings:
-	background: (((IMAGEM)))
+	background: projeto/projeto.jpg
 	building cost increase:115%
 	building cost refund:50%
 	spritesheet:icons, 48 by 48, (((IMAGEM)))
