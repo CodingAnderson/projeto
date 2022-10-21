@@ -6,7 +6,7 @@ Let's make a game!
 	created: 20/10/2022
 
 Settings:
-	background: projeto/projeto.jpg
+	//background:
 	building cost increase:115%
 	building cost refund:50%
 	spritesheet:icons, 48 by 48, 
