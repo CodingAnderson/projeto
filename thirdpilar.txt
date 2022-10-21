@@ -10,8 +10,8 @@ Settings:
 	background: projeto/projeto.jpg
 	building cost increase:115%
 	building cost refund:50%
-	spritesheet:icons, 48 by 48, (((IMAGEM)))
-	stylesheet: (((IMAGEM)))
+	spritesheet:icons, 48 by 48, 
+	stylesheet: 
 
 Layout
 	use default
